@@ -1,0 +1,99 @@
+To begin ordering, you may visit the Amazon website. If you are using an Android phone, you may download and install the Amazon Shopping app here.
+
+iPhone uers may download the Amazon shopping app here.
+
+Steps to place an order:
+
+Select the items which you want to order.
+Add those items to your “Shopping Cart”.
+After reviewing your shopping cart, select “Proceed to Checkout”.
+You’ll be prompted to sign in to Amazon.in account, you can sign in using your mobile number or email address if you already have an account.
+If you’re a new customer, select “I am a new customer” option on the sign in page to create a new account. Here's an helpful page to Get Started with Amazon.
+Enter the address where you want to receive your order/select the Pickup store as per the availability by searching in the available criteria.
+If it a gift for someone/ if you want your order to be gift wrapped, then select gift-wrap option and include a gift message.
+Select the payment method, add the details and select “Continue”.
+Review your order and select “Place your Order” button and Pay to complete the transaction.
+
+Note: The delivery speeds, dates and delivery address cannot be changed once an order is placed.
+To explore more help pages on ordering, exchange offer, installation and save & subscribe option, check this Help page.
+Why am I unable to place orders?
+This could be due to the following issues:
+
+There is a Payment decline. Please select here to know more about Payment issues.
+The item you have selected is out of stock.
+There is some technical or internet connectivity issue.
+Undeliverable to selected location/pincode.
+There is a quantity limit.
+Sometimes when Fulfiiled by Amazon and seller fulfilled items are clubbed together, the order processing takes time.
+How can I change or modify the quantity of orders in the cart?
+To change the quantity for items you have not yet added to the cart -
+
+Once you select the "Add to Cart" button and add the item to your shopping cart, enter the desired quantity in the "Quantity" dropdown option on the right side of the page.
+
+To change the quantity for items already added to the cart -
+
+Go to Cart, select the quantity dropdown box to the right of the title and choose the desired quantity. The quantity number for the item and order amount will be updated automatically.
+
+If the entered quantity is not available with us, you'll see an error message.
+
+Can I change or modify orders that are already placed?
+You would not be able to change or modify the number of items once you have already placed an order. You can place another fresh order with the desired modifications. However, you can change your shipping preferences in Your Account at any time after placing your order as long as the order hasn't entered the shipping process yet.
+
+How to place Bulk Orders?
+You can bulk order new products from Amazon Business. To order, select the following link:https://www.amazon.in/ab/bulk-order/
+
+You can also access Bulk Ordering by hovering over your Account for Business menu and selecting Bulk Ordering from the drop-down menu. Enter the ISBNs or ASINs into the online form, or download a copy of the form to fill out and upload later.
+
+Amazon Business offers the option to bulk buy products for business customers at no extra cost. You can also get an option of quantity discount.
+
+How to Update Delivery instructions?
+Tell us what you'd like us to do with your parcel if you're not at home to receive it. Your delivery instructions can be accessed in multiple locations:
+
+Your address book.
+The checkout process
+Your order confirmation page
+The progress tracker
+Select update delivery instructions under your delivery address, if this option is available. A window appears. update your delivery instructions and select Save instructions.
+
+Note: We try to honour your delivery instructions whenever possible. However, we can't always guarantee that our carriers can meet these requests.
+
+For more information on How to update delivery instructions, click here.
+
+How to change the payment method?
+You can add or update your payment methods by selecting the payments options section in Your Account. To manage payment methods, select this link.
+
+What is Cash on Delivery?
+Cash on Delivery is one of the payment methods for making purchases on Amazon.in. When you select Cash on Delivery as your payment method, you don't have to make any advance payment. You pay for your order only when you receive it. Select this link to know more about Cash on Delivery.
+
+How to cancel orders?
+You can cancel items or orders by visiting the Your Orders section in Your Account.
+
+To cancel orders that aren't yet out for delivery:
+
+Go to Your Orders.
+Select the item you want to cancel and click Cancel items.
+Provide reasons for cancellation (optional).
+Click on Cancel Checked Items.
+To cancel an order that is already out for delivery:
+Go to Your Orders.
+Select the Request cancellation option and proceed further.
+The item(s) will be returned to us for a refund (if the payment is already made).
+Note: In case you're still contacted for delivery, please refuse to accept it.
+For more information on cancelling orders, go here.
+
+To know more about return and refunds, go here.
+
+To add and manage address, go here.
+
+
+
+
+How to place gift orders?
+You can choose to gift-wrap any item from your shopping cart as long as it is fulfilled by Amazon. To do this, check the This will be a gift box next to the item that you want gift-wrapped. Alternatively, check the box next to Ordering a gift? during checkout. The gift options show on the Delivery & Payment page.
+
+Products eligible for this service can be gift wrapped for just ₹30.
+
+Visit Gift Order to know more.
+
+What is Amazon Bazaar?
+Amazon Bazaar is a new store on Amazon.in, offering a dedicated destination for fashion and home products at affordable prices. You can find items from clothing, accessories, and jewelry to handbags, shoes, traditional and western wear, and a wide array of home goods including kitchenware, towels, bed linens, and décor items. Start shopping now on Amazon Bazaar! Available only on the Android Amazon shopping app.
