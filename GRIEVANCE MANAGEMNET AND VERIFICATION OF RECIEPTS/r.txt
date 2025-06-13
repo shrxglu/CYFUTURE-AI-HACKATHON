@@ -1,0 +1,12 @@
+streamlit
+pandas
+python-dotenv
+pillow
+torch
+transformers
+langchain
+langchain-community
+faiss-cpu
+sentence-transformers
+openai
+together
